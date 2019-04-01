@@ -7,6 +7,7 @@ public class WordCountMapper implements ImoocMapper{
         String[] words = line.trim().split(" ");
 
         for(String word : words){
+            word = word.toLowerCase();
             Object value = context.get(word);
             if(value == null){
                 context.write(word, 1);
