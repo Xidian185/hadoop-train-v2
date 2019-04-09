@@ -1,7 +1,7 @@
 package com.immoc.bigdata.hadoop.hdfs;
 
 /**
- * 常量
+ * 常量,系统用到的常量名称
  */
 public class Constants {
     public static final String INPUT_PATH = "INPUT_PATH";
