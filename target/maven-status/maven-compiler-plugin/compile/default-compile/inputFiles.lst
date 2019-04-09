@@ -1,0 +1,16 @@
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\wc\WordCountReducer.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\hdfs\Constants.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\access\AccessMapper.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\access\AccessLocalApp.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\hdfs\HDFSApp01.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\access\AccessYarnApp.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\hdfs\WordCountMapper.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\wc\WordCountMapper.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\hdfs\ImoocContext.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\wc\WordCountApp.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\hdfs\ParamUtils.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\access\AccessReducer.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\access\AccessPartitioner.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\org\apache\hadoop\io\nativeio\NativeIO.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\hdfs\ImoocMapper.java
+E:\ÍõÖÇºÆ\IDEA\hadoop-train-v2\src\main\java\com\immoc\bigdata\hadoop\mr\access\Access.java
